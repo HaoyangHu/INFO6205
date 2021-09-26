@@ -8,7 +8,7 @@ Assignment uploaded here.
 
   [RandomWalk.java]: https://github.com/HaoyangHu/INFO6205/tree/main/src/main/java/edu/neu/coe/info6205/randomwalk
 
-  
+  [RandomWalk.java](https://github.com/HaoyangHu/INFO6205/tree/main/src/main/java/edu/neu/coe/info6205/randomwalk )
 
 - Add lib as a Library
 
