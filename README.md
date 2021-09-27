@@ -10,8 +10,6 @@ Assignment uploaded here.
 
   [RandomWalk.java](https://github.com/HaoyangHu/INFO6205/tree/main/src/main/java/edu/neu/coe/info6205/randomwalk )
 
-- Add [lib](https://github.com/HaoyangHu/INFO6205/tree/main/src/main/java/edu/neu/coe/info6205/lib) as a Library
-
 ## Assignment2
 
 - Files which changed are
