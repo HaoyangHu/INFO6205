@@ -10,8 +10,6 @@ Assignment uploaded here.
 
   [RandomWalk.java](https://github.com/HaoyangHu/INFO6205/tree/main/src/main/java/edu/neu/coe/info6205/randomwalk )
 
-- Add lib as Library
-
 ## Assignment2
 
 - Files which changed are
@@ -24,7 +22,4 @@ Assignment uploaded here.
 
   [Timer.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/util/Timer.java )
 
-  I changed the path of two .jar files so the update time is refreshed.  
-
   
-
