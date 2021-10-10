@@ -14,7 +14,7 @@ Assignment uploaded here.
 
 - Files which changed are
 
-  [InsertionSort.java]: https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/sort/elementary/InsertionSort.java 
+  [InsertionSort.java]: https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/sort/elementary/InsertionSort.java
 
   [InsertionSort.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/sort/elementary/InsertionSort.java)
 
@@ -22,4 +22,7 @@ Assignment uploaded here.
 
   [Timer.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/util/Timer.java )
 
-  
+## Assignment3
+
+[UF_HWQUPC.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/union_find/UF_HWQUPC.java)
+
