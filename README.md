@@ -26,3 +26,5 @@ Assignment uploaded here.
 
 [UF_HWQUPC.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/union_find/UF_HWQUPC.java)
 
+Report: [Assignment3](https://github.com/HaoyangHu/INFO6205/tree/main/Assignment3)
+
