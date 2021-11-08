@@ -28,3 +28,11 @@ Assignment uploaded here.
 
 Report: [Assignment3](https://github.com/HaoyangHu/INFO6205/tree/main/Assignment3)
 
+## Assignment5
+
+[Main.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/sort/par/Main.java)
+
+[ParSort.java](https://github.com/HaoyangHu/INFO6205/blob/main/src/main/java/edu/neu/coe/info6205/sort/par/ParSort.java)
+
+Report: [Assignment5](https://github.com/HaoyangHu/INFO6205/tree/main/Assignment5)
+
